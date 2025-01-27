@@ -1,0 +1,3 @@
+git comit
+git add
+git status
